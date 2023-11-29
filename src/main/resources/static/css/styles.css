@@ -2,7 +2,7 @@
  * -- BASE STYLES --
  * Most of these are inherited from Base, but I want to change a few.
  */
- body {
+body {
   color: #526066;
 }
 
@@ -76,6 +76,7 @@ p {
   max-width: 980px;
   margin: 0 auto;
 }
+
 .pricing-tables {
   margin-bottom: 3.125em;
   text-align: center;
@@ -111,6 +112,7 @@ p {
   background: #111;
   color: #fff;
 }
+
 .pricing-table-header h2 {
   margin: 0;
   padding-top: 2em;
@@ -127,6 +129,7 @@ p {
   margin: 0.2em 0 0;
   font-weight: 100;
 }
+
 .pricing-table-price span {
   display: block;
   text-transform: uppercase;
@@ -183,6 +186,7 @@ p {
   color: #888;
   text-align: center;
 }
+
 .footer a {
   color: #ddd;
 }
@@ -196,6 +200,7 @@ p {
   .banner-head {
     font-size: 4em;
   }
+
   .pricing-table {
     margin-bottom: 0;
   }
@@ -209,6 +214,7 @@ p {
   .banner {
     height: 300px;
   }
+
   .banner-head {
     font-size: 3em;
   }
@@ -299,7 +305,7 @@ p {
 
 
 .easy:hover {
-  background:#AED9E0;
+  background: #AED9E0;
 }
 
 .normal:hover {
@@ -339,6 +345,7 @@ p {
   0% {
     transform: translateX(0);
   }
+
   100% {
     transform: translateX(0.125em);
   }
